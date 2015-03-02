@@ -1,9 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/C_LowerLimb.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/JointFlex.cs">
     <Files>
-      <File FileName="Assets/Scripts/C_LowerLimb.cs" Line="19" Column="35" />
-      <File FileName="Assets/RigidBodyEditor.cs" Line="10" Column="86" />
+      <File FileName="Assets/HeadKeeper.cs" Line="7" Column="1" />
+      <File FileName="Assets/FootGoer.cs" Line="6" Column="14" />
+      <File FileName="Assets/JointFlex.cs" Line="14" Column="2" />
+      <File FileName="Assets/HingeFlex.cs" Line="11" Column="32" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

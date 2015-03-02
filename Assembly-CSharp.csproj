@@ -47,11 +47,15 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\CenterOfMassCalc.cs" />
+     <Compile Include="Assets\ConfigurableJointExtensions.cs" />
+     <Compile Include="Assets\FootGoer.cs" />
      <Compile Include="Assets\Glow11\Glow11DemoScene\Scripts\ColorChanger.cs" />
      <Compile Include="Assets\Glow11\Glow11DemoScene\Scripts\ColorChangerVertex.cs" />
      <Compile Include="Assets\Glow11\Glow11DemoScene\Scripts\Set60Fps.cs" />
+     <Compile Include="Assets\HeadKeeper.cs" />
+     <Compile Include="Assets\HingeFlex.cs" />
+     <Compile Include="Assets\JointFlex.cs" />
      <Compile Include="Assets\RigidBodyEditor.cs" />
-     <Compile Include="Assets\Scripts\C_LowerLimb.cs" />
      <None Include="Assets\Glow11\Shaders\Unity\Unlit-AlphaTest.shader" />
      <None Include="Assets\Glow11\Shaders\Unity\Normal-Bumped.shader" />
      <None Include="Assets\Glow11\_internal\Resources\PostShaders\Glow11BlurGL.shader" />
