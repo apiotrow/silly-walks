@@ -10,13 +10,13 @@ public class HingeFlex : MonoBehaviour {
 	void Awake () {
 		joint = GetComponent<HingeJoint>();
 		jm = joint.motor;
-		targetVelocity = 100f;
+		targetVelocity = 500f;
 
 	}
 	
 
 	void Update () {
-		Debug.Log(joint.velocity + " " + tooMuchResistance());
+//		Debug.Log(joint.velocity + " " + tooMuchResistance());
 		if(tooMuchResistance() || isFullyExtended()){
 			contract();
 		}else if(tooMuchResistance() || isFullyContracted()){

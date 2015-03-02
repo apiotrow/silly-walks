@@ -47,6 +47,7 @@
 -define:UNITY_EDITOR
 -define:UNITY_EDITOR_OSX
 'Assets/CenterOfMassCalc.cs'
+'Assets/ConfigurableJointExtensions.cs'
 'Assets/FootGoer.cs'
 'Assets/Glow11/Glow11DemoScene/Scripts/ColorChanger.cs'
 'Assets/Glow11/Glow11DemoScene/Scripts/ColorChangerVertex.cs'
@@ -54,6 +55,7 @@
 'Assets/HeadKeeper.cs'
 'Assets/HingeFlex.cs'
 'Assets/JointFlex.cs'
+'Assets/RightFootController.cs'
 'Assets/RigidBodyEditor.cs'
 -r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
 -r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Xml.Linq.dll'

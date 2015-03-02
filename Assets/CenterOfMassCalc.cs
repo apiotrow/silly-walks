@@ -11,6 +11,11 @@ public class CenterOfMassCalc : MonoBehaviour {
 	public Transform b;
 	public Transform c;
 	public Transform d;
+	public Transform e;
+	public Transform f;
+	public Transform g;
+	public Transform h;
+	public Transform aa;
 
 	public GameObject rightFoot;
 	public GameObject leftFoot;
@@ -23,24 +28,36 @@ public class CenterOfMassCalc : MonoBehaviour {
 	
 
 	void Update () {
-//		centroid = a.centerOfMass + b.centerOfMass + c.centerOfMass + d.centerOfMass;
-		centroid = a.position + b.position + c.position + d.position;
-		centroid /= 4;
+		centroid = a.position + b.position + c.position + d.position + 
+			e.position + f.position + g.position + h.position;
+		centroid /= 8;
+
 //		Debug.Log (centroid);
 		transform.position = centroid;
 
-		Vector3 rightFootPos = rightFoot.transform.position;
-		Vector3 newRightFootPos = new Vector3 (centroid.x - rightFootPos.x, rightFootPos.y, centroid.z - rightFootPos.z);
-		rightFoot.transform.position = 
-			Vector3.MoveTowards(rightFootPos, 
-			                    newRightFootPos, 
-			                    1f * Time.deltaTime);
+
 
 		Vector3 leftFootPos = leftFoot.transform.position;
-		Vector3 newleftFootPos = new Vector3 (centroid.x + leftFootPos.x, leftFootPos.y, centroid.z + leftFootPos.z);
+//		Vector3 newleftFootPos = new Vector3 (centroid.x + leftFootPos.x, leftFootPos.y, centroid.z + leftFootPos.z);
+//		Vector3 newleftFootPos = new Vector3 (centroid.x, leftFootPos.y, centroid.z);
+		Vector3 newleftFootPos = new Vector3 (h.transform.position.x, leftFootPos.y, h.transform.position.z);
+
 		leftFoot.transform.position = 
 			Vector3.MoveTowards(leftFootPos, 
 			                    newleftFootPos, 
-			                    1f * Time.deltaTime);
+			                    5f * Time.deltaTime);
+
+
+//		Vector3 rightFootPos = rightFoot.transform.position;
+////		Vector3 newrightFootPos = new Vector3 (centroid.x + leftFootPos.x, leftFootPos.y, centroid.z + leftFootPos.z);
+////		Vector3 newrightFootPos = new Vector3 (centroid.x, rightFootPos.y, centroid.z);
+//		Vector3 newrightFootPos = new Vector3 (g.transform.position.x, rightFootPos.y, g.transform.position.z);
+//		
+//		rightFoot.transform.position = 
+//			Vector3.MoveTowards(rightFootPos, 
+//			                    newrightFootPos, 
+//			                    5f * Time.deltaTime);
+
+
 	}
 }
