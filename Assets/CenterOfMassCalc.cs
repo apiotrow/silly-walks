@@ -37,15 +37,15 @@ public class CenterOfMassCalc : MonoBehaviour {
 
 
 
-		Vector3 leftFootPos = leftFoot.transform.position;
-//		Vector3 newleftFootPos = new Vector3 (centroid.x + leftFootPos.x, leftFootPos.y, centroid.z + leftFootPos.z);
-//		Vector3 newleftFootPos = new Vector3 (centroid.x, leftFootPos.y, centroid.z);
-		Vector3 newleftFootPos = new Vector3 (h.transform.position.x, leftFootPos.y, h.transform.position.z);
-
-		leftFoot.transform.position = 
-			Vector3.MoveTowards(leftFootPos, 
-			                    newleftFootPos, 
-			                    5f * Time.deltaTime);
+//		Vector3 leftFootPos = leftFoot.transform.position;
+////		Vector3 newleftFootPos = new Vector3 (centroid.x + leftFootPos.x, leftFootPos.y, centroid.z + leftFootPos.z);
+////		Vector3 newleftFootPos = new Vector3 (centroid.x, leftFootPos.y, centroid.z);
+//		Vector3 newleftFootPos = new Vector3 (h.transform.position.x, leftFootPos.y, h.transform.position.z);
+//
+//		leftFoot.transform.position = 
+//			Vector3.MoveTowards(leftFootPos, 
+//			                    newleftFootPos, 
+//			                    5f * Time.deltaTime);
 
 
 //		Vector3 rightFootPos = rightFoot.transform.position;

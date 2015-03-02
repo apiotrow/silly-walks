@@ -48,14 +48,14 @@
   <ItemGroup>
      <Compile Include="Assets\CenterOfMassCalc.cs" />
      <Compile Include="Assets\ConfigurableJointExtensions.cs" />
-     <Compile Include="Assets\FootGoer.cs" />
      <Compile Include="Assets\Glow11\Glow11DemoScene\Scripts\ColorChanger.cs" />
      <Compile Include="Assets\Glow11\Glow11DemoScene\Scripts\ColorChangerVertex.cs" />
      <Compile Include="Assets\Glow11\Glow11DemoScene\Scripts\Set60Fps.cs" />
-     <Compile Include="Assets\HeadKeeper.cs" />
+     <Compile Include="Assets\HeadGetterUpper.cs" />
      <Compile Include="Assets\HingeFlex.cs" />
      <Compile Include="Assets\HipController.cs" />
      <Compile Include="Assets\JointFlex.cs" />
+     <Compile Include="Assets\LeftFootController.cs" />
      <Compile Include="Assets\RightFootController.cs" />
      <Compile Include="Assets\RigidBodyEditor.cs" />
      <None Include="Assets\Glow11\Shaders\Unity\Unlit-AlphaTest.shader" />

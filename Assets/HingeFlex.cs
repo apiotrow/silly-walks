@@ -2,26 +2,80 @@
 using System.Collections;
 
 public class HingeFlex : MonoBehaviour {
-	HingeJoint joint;
+	public HingeJoint joint;
 	JointMotor jm;
+	bool rightExtended = true;
+	bool leftExtended = false;
+	static HingeFlex leftOne;
+	static HingeFlex rightOne;
 
 	float targetVelocity;
 
 	void Awake () {
 		joint = GetComponent<HingeJoint>();
 		jm = joint.motor;
-		targetVelocity = 500f;
+		targetVelocity = Random.Range(50f, 300f);
+//		targetVelocity = 100f;
 
+		if(thisIsLeftLeg()) leftOne = this.gameObject.GetComponent("HingeFlex") as HingeFlex;
+		else rightOne = this.gameObject.GetComponent("HingeFlex") as HingeFlex;
 	}
 	
 
 	void Update () {
-//		Debug.Log(joint.velocity + " " + tooMuchResistance());
-		if(tooMuchResistance() || isFullyExtended()){
-			contract();
+		if((tooMuchResistance() || isFullyExtended())){
+//			if(thisIsRightLeg()){
+//				rightExtended = true;
+//				if(leftLegIsContracted()){
+//					contract ();
+//				}
+//			}else if(thisIsLeftLeg()){
+//				leftExtended = true;
+//				if(rightLegIsContracted()){
+//					contract ();
+//				}
+//			}
+//			targetVelocity = Random.Range(50f, 300f);
+			contract ();
 		}else if(tooMuchResistance() || isFullyContracted()){
-			extend();
+//			if(thisIsRightLeg()){
+//				rightExtended = false;
+//				if(leftLegIsExtended()){
+//					extend ();
+//				}
+//			}else if(thisIsLeftLeg()){
+//				rightExtended = true;
+//				if(rightLegIsExtended()){
+//					extend ();
+//				}
+//			}
+//			targetVelocity = Random.Range(50f, 300f);
+			extend ();
 		}
+	}
+
+	bool rightLegIsExtended(){
+		return rightOne.joint.angle <= joint.limits.min;
+	}
+
+	bool leftLegIsExtended(){
+		return leftOne.joint.angle <= joint.limits.min;
+	}
+
+	bool rightLegIsContracted(){
+		return rightOne.joint.angle >= joint.limits.max;
+	}
+
+	bool leftLegIsContracted(){
+		return leftOne.joint.angle >= joint.limits.max;
+	}
+
+	bool thisIsRightLeg(){
+		return this.transform.parent.name == "RightLeg";
+	}
+
+	bool thisIsLeftLeg(){
+		return this.transform.parent.name == "LeftLeg";
 	}
 
 	bool isFullyExtended(){ 
