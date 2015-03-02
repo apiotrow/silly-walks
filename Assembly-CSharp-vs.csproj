@@ -58,6 +58,7 @@
      <Compile Include="Assets\LeftFootController.cs" />
      <Compile Include="Assets\RightFootController.cs" />
      <Compile Include="Assets\RigidBodyEditor.cs" />
+     <Compile Include="Assets\RotateLight.cs" />
      <None Include="Assets\Glow11\Shaders\Unity\Unlit-AlphaTest.shader" />
      <None Include="Assets\Glow11\Shaders\Unity\Normal-Bumped.shader" />
      <None Include="Assets\Glow11\_internal\Resources\PostShaders\Glow11BlurGL.shader" />

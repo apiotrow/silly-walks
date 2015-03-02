@@ -9,12 +9,15 @@ public class HingeFlex : MonoBehaviour {
 	static HingeFlex leftOne;
 	static HingeFlex rightOne;
 
+	float minSpeed = 50f;
+	float maxSpeed = 300f;
+
 	float targetVelocity;
 
 	void Awake () {
 		joint = GetComponent<HingeJoint>();
 		jm = joint.motor;
-		targetVelocity = Random.Range(50f, 300f);
+		targetVelocity = Random.Range(minSpeed, maxSpeed);
 //		targetVelocity = 100f;
 
 		if(thisIsLeftLeg()) leftOne = this.gameObject.GetComponent("HingeFlex") as HingeFlex;
@@ -35,7 +38,7 @@ public class HingeFlex : MonoBehaviour {
 //					contract ();
 //				}
 //			}
-//			targetVelocity = Random.Range(50f, 300f);
+			targetVelocity = Random.Range(minSpeed, maxSpeed);
 			contract ();
 		}else if(tooMuchResistance() || isFullyContracted()){
 //			if(thisIsRightLeg()){
@@ -49,7 +52,7 @@ public class HingeFlex : MonoBehaviour {
 //					extend ();
 //				}
 //			}
-//			targetVelocity = Random.Range(50f, 300f);
+			targetVelocity = Random.Range(minSpeed, maxSpeed);
 			extend ();
 		}
 	}
