@@ -1,3 +1,5 @@
+#warning Upgrade NOTE: unity_Scale shader variable was removed; replaced 'unity_Scale.w' with '1.0'
+
 Shader "Glow 11/Unity/Reflective/VertexLit" {
 Properties {
 	_Color ("Main Color", Color) = (1,1,1,1)
@@ -47,7 +49,7 @@ v2f vert(appdata_tan v)
 
 	// calculate world space reflection vector	
 	float3 viewDir = WorldSpaceViewDir( v.vertex );
-	float3 worldN = mul((float3x3)_Object2World, v.normal * unity_Scale.w);
+	float3 worldN = mul((float3x3)_Object2World, v.normal * 1.0);
 	o.I = reflect( -viewDir, worldN );
 	
 	return o; 

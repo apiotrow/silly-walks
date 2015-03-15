@@ -9,8 +9,8 @@ public class HingeFlex : MonoBehaviour {
 	static HingeFlex leftOne;
 	static HingeFlex rightOne;
 
-	float minSpeed = 50f;
-	float maxSpeed = 300f;
+	float minSpeed = 80f;
+	float maxSpeed = 100f;
 
 	float targetVelocity;
 
