@@ -16,6 +16,6 @@ public class HipController : MonoBehaviour {
 		transform.position = 
 			Vector3.MoveTowards(transform.position, 
 			                    newPos, 
-			                    4f * Time.deltaTime);
+			                    5f * Time.deltaTime);
 	}
 }

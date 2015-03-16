@@ -6,7 +6,7 @@ public class LeftFootController : MonoBehaviour {
 	public Transform leftArm;
 	
 	void Start () {
-		
+//		leftArm = GameObject.Find("UpperLeftArm").GetComponent("Transform") as Transform;
 	}
 	
 	

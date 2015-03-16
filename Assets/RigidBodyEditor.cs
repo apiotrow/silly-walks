@@ -1,8 +1,8 @@
-﻿using UnityEditor;
-using UnityEngine;
-[CustomEditor(typeof(Rigidbody))]
-public class RigidbodyEditor : Editor
-{
+﻿//using UnityEditor;
+//using UnityEngine;
+//[CustomEditor(typeof(Rigidbody))]
+//public class RigidbodyEditor : Editor
+//{
 //	void OnSceneGUI()
 //	{
 //		Rigidbody rb = target as Rigidbody;
@@ -14,4 +14,4 @@ public class RigidbodyEditor : Editor
 //		GUI.skin = EditorGUIUtility.GetBuiltinSkin(UnityEditor.EditorSkin.Inspector);
 //		DrawDefaultInspector();
 //	}
-}
+//}

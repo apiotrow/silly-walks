@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
-using System.Collections;
 using System; 
+using System.Collections;
 using System.Collections.Generic;
 
 public class JointLimitChanger : MonoBehaviour {
@@ -25,6 +25,16 @@ public class JointLimitChanger : MonoBehaviour {
 
 	public List<ConfigurableJoint> joints;
 
+	public float lowxlim;
+	public float highxlim;
+	public float ylim;
+	public float zlim;
+
+	SoftJointLimit lowxlim_s = new SoftJointLimit();
+	SoftJointLimit highxlim_s = new SoftJointLimit();
+	SoftJointLimit ylim_s = new SoftJointLimit();
+	SoftJointLimit zlim_s = new SoftJointLimit();
+
 	void Start () {
 
 
@@ -45,16 +55,32 @@ public class JointLimitChanger : MonoBehaviour {
 		joints.Add(jointf);
 		joints.Add(jointg);
 		joints.Add(jointh);
+
+		lowxlim = UnityEngine.Random.Range(-179,0);
+		highxlim = UnityEngine.Random.Range(0,179);
+		ylim = UnityEngine.Random.Range(0,90);
+		zlim = UnityEngine.Random.Range(0,90);
+
+
+
+
+
 	}
 	
 
 	void Update () {
 		foreach(ConfigurableJoint cj in joints){
+			lowxlim_s.limit = lowxlim;
+			highxlim_s.limit = highxlim;
+			ylim_s.limit = ylim;
+			zlim_s.limit = zlim;
 
+
+			cj.lowAngularXLimit = lowxlim_s;
+			cj.highAngularXLimit = highxlim_s;
+			cj.angularYLimit = ylim_s;
+			cj.angularZLimit = zlim_s;
 		}
 
-		foreach(ConfigurableJoint cj in joints){
-
-		}
 	}
 }

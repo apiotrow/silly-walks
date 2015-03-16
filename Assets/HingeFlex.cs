@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.UI;
 
 public class HingeFlex : MonoBehaviour {
 	public HingeJoint joint;
@@ -9,12 +10,23 @@ public class HingeFlex : MonoBehaviour {
 	static HingeFlex leftOne;
 	static HingeFlex rightOne;
 
-	float minSpeed = 80f;
-	float maxSpeed = 400f;
+	float minSpeed = 100f;
+	float maxSpeed = 300f;
 
 	float targetVelocity;
 
+	public Slider slid;
+
+
+
+	
+
 	void Awake () {
+		slid = GameObject.Find("FlexSlider").GetComponent("Slider") as Slider;
+
+
+
+
 		joint = GetComponent<HingeJoint>();
 		jm = joint.motor;
 		targetVelocity = Random.Range(minSpeed, maxSpeed);
@@ -26,6 +38,19 @@ public class HingeFlex : MonoBehaviour {
 	
 
 	void Update () {
+		float val = slid.value;
+		val *= 3;
+
+
+		float newmin = minSpeed * val;
+		float newmax = maxSpeed * val;
+
+
+
+
+
+//		print(maxSpeed + ", " + minSpeed);
+
 		if((tooMuchResistance() || isFullyExtended())){
 //			if(thisIsRightLeg()){
 //				rightExtended = true;
@@ -38,7 +63,7 @@ public class HingeFlex : MonoBehaviour {
 //					contract ();
 //				}
 //			}
-			targetVelocity = Random.Range(minSpeed, maxSpeed);
+			targetVelocity = Random.Range(newmin, newmax);
 			contract ();
 		}else if(tooMuchResistance() || isFullyContracted()){
 //			if(thisIsRightLeg()){
@@ -52,7 +77,7 @@ public class HingeFlex : MonoBehaviour {
 //					extend ();
 //				}
 //			}
-			targetVelocity = Random.Range(minSpeed, maxSpeed);
+			targetVelocity = Random.Range(newmin, newmax);
 			extend ();
 		}
 	}

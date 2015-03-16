@@ -1,0 +1,1319 @@
+Base path: /Applications/Unity4/Unity.app/Contents
+Pipe name: \\.\pipe\UnityShaderCompiler-2--1334542336
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=1 type=0 insize=4808 outsize=595 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4808 outsize=1493 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=4808 outsize=2048 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=4808 outsize=719 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=4808 outsize=4380 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4808 outsize=1883 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=4808 outsize=2665 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4808 outsize=4329 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4808 outsize=1693 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=4808 outsize=1281 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=4808 outsize=7150 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=4808 outsize=345 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=4808 outsize=2194 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=4808 outsize=1658 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=4808 outsize=404 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=4808 outsize=2690 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4808 outsize=1672 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2847 outsize=383 kw=POINT ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2847 outsize=253 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2847 outsize=1851 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2847 outsize=402 kw=SPOT ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=2847 outsize=4128 kw=SPOT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2847 outsize=2875 kw=POINT_COOKIE ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2847 outsize=775 kw=DIRECTIONAL_COOKIE ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2847 outsize=359 kw=DIRECTIONAL_COOKIE ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2847 outsize=538 kw=POINT ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=2847 outsize=2690 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2847 outsize=1339 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2847 outsize=681 kw=SPOT ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=2847 outsize=3332 kw=SPOT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2847 outsize=1940 kw=POINT_COOKIE ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2847 outsize=496 kw=DIRECTIONAL_COOKIE ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2847 outsize=398 kw=DIRECTIONAL_COOKIE ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=2847 outsize=2422 kw=DIRECTIONAL_COOKIE ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1760 outsize=542 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1760 outsize=214 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=1760 outsize=1885 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1986 outsize=132 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1986 outsize=79 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=1986 outsize=1008 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2398 outsize=330 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2398 outsize=302 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=2398 outsize=2283 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2399 outsize=1745 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2399 outsize=302 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=2399 outsize=2283 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2403 outsize=330 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2403 outsize=256 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=2403 outsize=2243 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2403 outsize=1745 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=2403 outsize=2470 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2403 outsize=256 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1389 outsize=1827 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=1389 outsize=2592 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1389 outsize=214 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=1389 outsize=1934 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=4423 outsize=621 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4423 outsize=468 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4423 outsize=1640 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4423 outsize=468 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4423 outsize=1640 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=4423 outsize=2243 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=4423 outsize=745 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=4423 outsize=4575 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4423 outsize=2030 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=4423 outsize=2860 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=4423 outsize=345 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=4423 outsize=2860 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=4423 outsize=1172 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=4423 outsize=6777 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4423 outsize=4865 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=4423 outsize=321 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=4423 outsize=2145 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=4423 outsize=1788 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=4423 outsize=243 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=4423 outsize=1788 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=4423 outsize=360 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=4423 outsize=2592 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=4423 outsize=2641 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4423 outsize=1770 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2341 outsize=383 kw=POINT ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2341 outsize=253 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2341 outsize=1851 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2341 outsize=854 kw=SPOT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2341 outsize=2875 kw=SPOT ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2341 outsize=817 kw=POINT_COOKIE ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2341 outsize=383 kw=POINT_COOKIE ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2341 outsize=775 kw=DIRECTIONAL_COOKIE ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2341 outsize=359 kw=DIRECTIONAL_COOKIE ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2341 outsize=421 kw=POINT ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=2341 outsize=2422 kw=POINT ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=2341 outsize=1820 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2341 outsize=2103 kw=SPOT ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2341 outsize=637 kw=POINT_COOKIE ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2341 outsize=469 kw=POINT_COOKIE ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2341 outsize=1794 kw=POINT_COOKIE ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2341 outsize=447 kw=DIRECTIONAL_COOKIE ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2341 outsize=1396 kw=DIRECTIONAL_COOKIE ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1869 outsize=190 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1869 outsize=118 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=1869 outsize=918 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=4150 outsize=665 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4150 outsize=887 kw=LIGHTMAP_ON DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=4150 outsize=529 kw=LIGHTMAP_ON DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4150 outsize=566 kw=LIGHTMAP_ON DIRLIGHTMAP_ON HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4150 outsize=2030 kw=LIGHTMAP_ON DIRLIGHTMAP_ON HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=4150 outsize=2860 kw=LIGHTMAP_ON DIRLIGHTMAP_ON HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=4150 outsize=665 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_ON ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=4150 outsize=4437 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4150 outsize=3029 kw=LIGHTMAP_ON DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_ON ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=4150 outsize=4372 kw=LIGHTMAP_ON DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4150 outsize=2030 kw=LIGHTMAP_ON DIRLIGHTMAP_ON HDR_LIGHT_PREPASS_ON ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=4150 outsize=2860 kw=LIGHTMAP_ON DIRLIGHTMAP_ON HDR_LIGHT_PREPASS_ON ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=4150 outsize=253 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=4150 outsize=1983 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4150 outsize=2192 kw=LIGHTMAP_ON DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4150 outsize=451 kw=LIGHTMAP_ON DIRLIGHTMAP_ON HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=4150 outsize=337 kw=LIGHTMAP_ON DIRLIGHTMAP_ON HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=4150 outsize=2340 kw=LIGHTMAP_ON DIRLIGHTMAP_ON HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4150 outsize=1298 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_ON ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4150 outsize=671 kw=LIGHTMAP_ON DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4150 outsize=2143 kw=LIGHTMAP_ON DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_ON ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4150 outsize=401 kw=LIGHTMAP_ON DIRLIGHTMAP_ON HDR_LIGHT_PREPASS_ON ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=4150 outsize=282 kw=LIGHTMAP_ON DIRLIGHTMAP_ON HDR_LIGHT_PREPASS_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4150 outsize=1502 kw=LIGHTMAP_ON DIRLIGHTMAP_ON HDR_LIGHT_PREPASS_ON ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=808 outsize=145 kw=GLOW11_GLOW_MAINTEX NO_MULTIPLY ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=808 outsize=365 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=808 outsize=1617 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=808 outsize=171 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_VERT ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=808 outsize=1812 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_VERT ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=808 outsize=171 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_VERT_ALPHA ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=808 outsize=1812 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_VERT_ALPHA ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=808 outsize=173 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_ILLUMTEX_ALPHA ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=808 outsize=365 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_MAINTEX_ALPHA ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=808 outsize=1128 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_MAINTEX_ALPHA ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=808 outsize=281 kw=NO_MULTIPLY GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=808 outsize=892 kw=NO_MULTIPLY GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=808 outsize=1292 kw=NO_MULTIPLY GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=808 outsize=100 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=808 outsize=313 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=808 outsize=1038 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=808 outsize=1487 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=808 outsize=126 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=808 outsize=1487 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=808 outsize=145 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=808 outsize=1617 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=808 outsize=100 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=808 outsize=365 kw=NO_MULTIPLY GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=808 outsize=1128 kw=NO_MULTIPLY GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=808 outsize=365 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=808 outsize=1128 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=808 outsize=1617 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=808 outsize=171 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=808 outsize=397 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=808 outsize=1274 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=808 outsize=1812 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=808 outsize=173 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=808 outsize=365 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=808 outsize=1177 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=808 outsize=1666 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=808 outsize=145 kw=NO_MULTIPLY GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=808 outsize=365 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=808 outsize=1128 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=808 outsize=1617 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=808 outsize=171 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=808 outsize=397 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=808 outsize=1274 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=808 outsize=1812 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=808 outsize=145 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=808 outsize=365 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=808 outsize=1177 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=808 outsize=1666 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=808 outsize=100 kw=NO_MULTIPLY GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=808 outsize=281 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=808 outsize=892 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=808 outsize=1292 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=808 outsize=126 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=808 outsize=313 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=808 outsize=1038 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=808 outsize=1487 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=808 outsize=145 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=808 outsize=281 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=808 outsize=957 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=808 outsize=1357 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=808 outsize=126 kw=NO_MULTIPLY GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=808 outsize=313 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=808 outsize=1038 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=808 outsize=1487 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=808 outsize=126 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=808 outsize=313 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=808 outsize=1038 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=808 outsize=1487 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=808 outsize=171 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=808 outsize=1812 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=808 outsize=126 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=808 outsize=73 kw=GLOW11_GLOW_MAINTEX NO_MULTIPLY ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=808 outsize=1065 kw=GLOW11_GLOW_MAINTEX NO_MULTIPLY ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=808 outsize=835 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=808 outsize=233 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_VERT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=808 outsize=852 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_VERT ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=808 outsize=235 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_VERT_ALPHA ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=808 outsize=102 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_VERT_ALPHA ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=808 outsize=1203 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_VERT_ALPHA ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=808 outsize=127 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_ILLUMTEX_ALPHA ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=808 outsize=1447 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_ILLUMTEX_ALPHA ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=808 outsize=90 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_MAINTEX_ALPHA ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=808 outsize=1154 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_MAINTEX_ALPHA ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=808 outsize=543 kw=NO_MULTIPLY GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=808 outsize=188 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=808 outsize=62 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=808 outsize=886 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=808 outsize=640 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=808 outsize=208 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=808 outsize=76 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=808 outsize=927 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=808 outsize=101 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=808 outsize=1187 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=808 outsize=835 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=808 outsize=197 kw=NO_MULTIPLY GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=808 outsize=73 kw=NO_MULTIPLY GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=808 outsize=1065 kw=NO_MULTIPLY GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=808 outsize=88 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=808 outsize=1162 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=808 outsize=852 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=808 outsize=235 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=808 outsize=852 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=808 outsize=272 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=808 outsize=127 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=808 outsize=1447 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=808 outsize=1030 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=808 outsize=197 kw=NO_MULTIPLY GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=808 outsize=770 kw=NO_MULTIPLY GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=808 outsize=218 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=808 outsize=88 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=808 outsize=1162 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=808 outsize=852 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=808 outsize=235 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=808 outsize=102 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=808 outsize=1203 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=808 outsize=827 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=808 outsize=1154 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=808 outsize=127 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=808 outsize=1447 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=808 outsize=47 kw=NO_MULTIPLY GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=808 outsize=772 kw=NO_MULTIPLY GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=808 outsize=862 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=808 outsize=69 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=808 outsize=640 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=808 outsize=208 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=808 outsize=640 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=808 outsize=927 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=808 outsize=835 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=808 outsize=245 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=808 outsize=835 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=808 outsize=162 kw=NO_MULTIPLY GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=808 outsize=559 kw=NO_MULTIPLY GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=808 outsize=192 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=808 outsize=58 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=808 outsize=902 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=808 outsize=58 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=808 outsize=894 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=808 outsize=713 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=808 outsize=246 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=808 outsize=852 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=808 outsize=246 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=808 outsize=852 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=812 outsize=145 kw=GLOW11_GLOW_MAINTEX NO_MULTIPLY ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=812 outsize=365 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=812 outsize=1128 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=812 outsize=397 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_VERT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=812 outsize=1274 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_VERT ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=812 outsize=397 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_VERT_ALPHA ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=812 outsize=1274 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_VERT_ALPHA ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=812 outsize=432 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_ILLUMTEX_ALPHA ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=812 outsize=1290 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_ILLUMTEX_ALPHA ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=812 outsize=1820 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_ILLUMTEX_ALPHA ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=812 outsize=145 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_MAINTEX_ALPHA ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=812 outsize=365 kw=NO_MULTIPLY GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=812 outsize=1128 kw=NO_MULTIPLY GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=812 outsize=365 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=812 outsize=1128 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=812 outsize=1617 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=812 outsize=171 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=812 outsize=397 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=812 outsize=1274 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=812 outsize=1812 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=812 outsize=173 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=812 outsize=365 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=812 outsize=1128 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=812 outsize=1617 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=812 outsize=173 kw=NO_MULTIPLY GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=812 outsize=1820 kw=NO_MULTIPLY GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=812 outsize=173 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=812 outsize=464 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=812 outsize=1437 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=812 outsize=2015 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=812 outsize=199 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=812 outsize=496 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=812 outsize=1453 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=812 outsize=432 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=812 outsize=1290 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=812 outsize=1820 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=812 outsize=173 kw=NO_MULTIPLY GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=812 outsize=432 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=812 outsize=1290 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=812 outsize=464 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=812 outsize=1437 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=812 outsize=464 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=812 outsize=1437 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=812 outsize=2015 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=812 outsize=173 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=812 outsize=432 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=812 outsize=1290 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=812 outsize=1820 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=812 outsize=145 kw=NO_MULTIPLY GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=812 outsize=365 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=812 outsize=1128 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=812 outsize=1617 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=812 outsize=171 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=812 outsize=397 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=812 outsize=1274 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=812 outsize=432 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=812 outsize=1290 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=812 outsize=1820 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=812 outsize=145 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=812 outsize=1617 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=812 outsize=171 kw=NO_MULTIPLY GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=812 outsize=397 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=812 outsize=1274 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=812 outsize=397 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=812 outsize=1274 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=812 outsize=1812 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=812 outsize=171 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=812 outsize=464 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=812 outsize=1437 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=812 outsize=2015 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=812 outsize=171 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=812 outsize=77 kw=GLOW11_GLOW_MAINTEX NO_MULTIPLY ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=812 outsize=1105 kw=GLOW11_GLOW_MAINTEX NO_MULTIPLY ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=812 outsize=876 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=812 outsize=265 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_VERT ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=812 outsize=107 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_VERT ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=812 outsize=1243 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_VERT ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=812 outsize=110 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_VERT_ALPHA ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=812 outsize=1243 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_VERT_ALPHA ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=812 outsize=148 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_ILLUMTEX_ALPHA ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=812 outsize=1487 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_ILLUMTEX_ALPHA ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=812 outsize=94 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_MAINTEX_ALPHA ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=812 outsize=1195 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_MAINTEX_ALPHA ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=812 outsize=819 kw=NO_MULTIPLY GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=812 outsize=254 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=812 outsize=111 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=812 outsize=272 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=812 outsize=122 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=812 outsize=1276 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=812 outsize=125 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=812 outsize=1276 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=812 outsize=1079 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=812 outsize=256 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=812 outsize=113 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=812 outsize=1227 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=812 outsize=1014 kw=NO_MULTIPLY GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=812 outsize=288 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=812 outsize=133 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=812 outsize=1495 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=812 outsize=144 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=812 outsize=1536 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=812 outsize=1095 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=812 outsize=333 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=812 outsize=172 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=812 outsize=1780 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=812 outsize=1071 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=812 outsize=263 kw=NO_MULTIPLY GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=812 outsize=114 kw=NO_MULTIPLY GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=812 outsize=1398 kw=NO_MULTIPLY GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=812 outsize=1079 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=812 outsize=303 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=812 outsize=144 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=812 outsize=1536 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=812 outsize=147 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=812 outsize=1536 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=812 outsize=1071 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=812 outsize=287 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=812 outsize=135 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=812 outsize=1487 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=812 outsize=92 kw=NO_MULTIPLY GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=812 outsize=1138 kw=NO_MULTIPLY GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=812 outsize=884 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=812 outsize=272 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=812 outsize=900 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=812 outsize=274 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=812 outsize=900 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=812 outsize=302 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=812 outsize=150 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=812 outsize=1520 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=812 outsize=876 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=812 outsize=224 kw=NO_MULTIPLY GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=812 outsize=88 kw=NO_MULTIPLY GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=812 outsize=1154 kw=NO_MULTIPLY GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=812 outsize=107 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=812 outsize=1252 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=812 outsize=892 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=812 outsize=275 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=812 outsize=105 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=812 outsize=1243 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=812 outsize=1095 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=812 outsize=1536 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=812 outsize=892 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=848 outsize=145 kw=GLOW11_GLOW_MAINTEX NO_MULTIPLY ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=848 outsize=365 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=848 outsize=1128 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=848 outsize=397 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_VERT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=848 outsize=1274 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_VERT ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=848 outsize=397 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_VERT_ALPHA ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=848 outsize=1274 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_VERT_ALPHA ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=848 outsize=432 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_ILLUMTEX_ALPHA ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=848 outsize=1290 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_ILLUMTEX_ALPHA ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=848 outsize=1820 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_ILLUMTEX_ALPHA ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=848 outsize=145 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_MAINTEX_ALPHA ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=848 outsize=365 kw=NO_MULTIPLY GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=848 outsize=1128 kw=NO_MULTIPLY GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=848 outsize=1617 kw=NO_MULTIPLY GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=848 outsize=145 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=848 outsize=397 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=848 outsize=1274 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=848 outsize=1812 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=848 outsize=171 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=848 outsize=432 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=848 outsize=1290 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=848 outsize=1820 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=848 outsize=145 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=848 outsize=432 kw=NO_MULTIPLY GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=848 outsize=1290 kw=NO_MULTIPLY GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=848 outsize=432 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=848 outsize=1290 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=848 outsize=1820 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=848 outsize=199 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=848 outsize=2015 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=848 outsize=199 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=848 outsize=496 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=848 outsize=1453 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=848 outsize=2023 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=848 outsize=173 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=848 outsize=432 kw=NO_MULTIPLY GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=848 outsize=1290 kw=NO_MULTIPLY GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=848 outsize=1820 kw=NO_MULTIPLY GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=848 outsize=173 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=848 outsize=464 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=848 outsize=1437 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=848 outsize=464 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=848 outsize=1437 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=848 outsize=2015 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=848 outsize=173 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=848 outsize=1820 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=848 outsize=173 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=848 outsize=365 kw=NO_MULTIPLY GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=848 outsize=1128 kw=NO_MULTIPLY GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=848 outsize=365 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=848 outsize=1128 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=848 outsize=1617 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=848 outsize=171 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=848 outsize=397 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=848 outsize=1274 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=848 outsize=1812 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=848 outsize=173 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=848 outsize=1820 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=848 outsize=145 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=848 outsize=397 kw=NO_MULTIPLY GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=848 outsize=1274 kw=NO_MULTIPLY GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=848 outsize=397 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=848 outsize=1274 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=848 outsize=1812 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=848 outsize=171 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=848 outsize=1812 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=848 outsize=171 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=848 outsize=464 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=848 outsize=1437 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=848 outsize=397 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=848 outsize=1274 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=848 outsize=1812 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=848 outsize=77 kw=GLOW11_GLOW_MAINTEX NO_MULTIPLY ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=848 outsize=250 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=848 outsize=96 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=848 outsize=1203 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=848 outsize=107 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_VERT ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=848 outsize=1243 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_VERT ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=848 outsize=110 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_VERT_ALPHA ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=848 outsize=1243 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_VERT_ALPHA ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=848 outsize=148 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_ILLUMTEX_ALPHA ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=848 outsize=1487 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_ILLUMTEX_ALPHA ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=848 outsize=868 kw=GLOW11_GLOW_MAINTEX GLOW11_MULTIPLY_MAINTEX_ALPHA ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=848 outsize=232 kw=NO_MULTIPLY GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=848 outsize=819 kw=NO_MULTIPLY GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=848 outsize=254 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=848 outsize=884 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=848 outsize=272 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=848 outsize=900 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=848 outsize=1276 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=848 outsize=900 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=848 outsize=302 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=848 outsize=1079 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=848 outsize=256 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=848 outsize=113 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_MAINCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=848 outsize=263 kw=NO_MULTIPLY GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=848 outsize=1014 kw=NO_MULTIPLY GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=848 outsize=288 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=848 outsize=1079 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=848 outsize=303 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=848 outsize=144 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=848 outsize=305 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=848 outsize=1095 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=848 outsize=333 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=848 outsize=172 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=848 outsize=1780 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=848 outsize=1071 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_GLOWTEX ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=848 outsize=263 kw=NO_MULTIPLY GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=848 outsize=1014 kw=NO_MULTIPLY GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=848 outsize=288 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=848 outsize=133 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=848 outsize=303 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=848 outsize=144 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=848 outsize=1536 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=848 outsize=1095 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=848 outsize=277 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=848 outsize=131 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=848 outsize=1487 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=848 outsize=1071 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_ILLUMTEX ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=848 outsize=232 kw=NO_MULTIPLY GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=848 outsize=819 kw=NO_MULTIPLY GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=848 outsize=254 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=848 outsize=884 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=848 outsize=272 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=848 outsize=900 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=848 outsize=274 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=848 outsize=125 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=848 outsize=1276 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=848 outsize=1079 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=848 outsize=256 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=848 outsize=876 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_GLOWCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=848 outsize=224 kw=NO_MULTIPLY GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=848 outsize=1154 kw=NO_MULTIPLY GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=848 outsize=107 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=848 outsize=1252 kw=GLOW11_MULTIPLY_GLOWCOLOR GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=848 outsize=273 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=848 outsize=892 kw=GLOW11_MULTIPLY_VERT GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=848 outsize=275 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=848 outsize=892 kw=GLOW11_MULTIPLY_VERT_ALPHA GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=848 outsize=303 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=848 outsize=146 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=848 outsize=1536 kw=GLOW11_MULTIPLY_ILLUMTEX_ALPHA GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=848 outsize=892 kw=GLOW11_MULTIPLY_MAINTEX_ALPHA GLOW11_GLOW_VERTEXCOLOR ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=479 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=479 outsize=261 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=479 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=479 outsize=265 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=479 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=479 outsize=450 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=479 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=479 outsize=458 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=480 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=480 outsize=639 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=480 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=480 outsize=651 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=480 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=480 outsize=832 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=481 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=481 outsize=840 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=481 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=481 outsize=1025 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=481 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=481 outsize=1029 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=481 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=481 outsize=1210 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=481 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=481 outsize=1214 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=481 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=481 outsize=1403 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=481 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=481 outsize=1403 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=481 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=481 outsize=1596 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=481 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=481 outsize=1596 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=481 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=481 outsize=1789 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=481 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=481 outsize=1789 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=482 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=482 outsize=1982 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=482 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=482 outsize=1982 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=482 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=482 outsize=2175 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=482 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=482 outsize=2175 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=482 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=482 outsize=2368 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=482 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=482 outsize=2368 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=482 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=482 outsize=2561 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=482 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=482 outsize=2561 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=482 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=482 outsize=6368 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=482 outsize=990 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=482 outsize=2754 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=482 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=482 outsize=2947 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=482 outsize=156 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=482 outsize=2947 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=481 outsize=132 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=481 outsize=265 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=481 outsize=132 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=481 outsize=269 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=481 outsize=132 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=481 outsize=454 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=481 outsize=132 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=481 outsize=462 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=481 outsize=132 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=481 outsize=643 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=481 outsize=132 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=481 outsize=655 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=481 outsize=132 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=481 outsize=836 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=481 outsize=132 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=481 outsize=844 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=481 outsize=132 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=481 outsize=1036 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=481 outsize=132 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=481 outsize=1040 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=481 outsize=132 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=481 outsize=1213 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=482 outsize=132 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=482 outsize=1218 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=952 outsize=132 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=952 outsize=76 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=952 outsize=132 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=952 outsize=76 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=952 outsize=1008 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=916 outsize=132 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=916 outsize=76 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=973 outsize=132 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=973 outsize=900 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=973 outsize=1292 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=609 outsize=230 kw=SHADOWS_DEPTH ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=609 outsize=172 kw=SHADOWS_CUBE ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=609 outsize=78 kw=SHADOWS_DEPTH ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=609 outsize=304 kw=SHADOWS_CUBE ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=694 outsize=456 kw=SHADOWS_NONATIVE ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=694 outsize=456 kw=SHADOWS_NATIVE ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=694 outsize=456 kw=SHADOWS_SPLIT_SPHERES SHADOWS_NONATIVE ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=694 outsize=456 kw=SHADOWS_SPLIT_SPHERES SHADOWS_NATIVE ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=694 outsize=646 kw=SHADOWS_NONATIVE ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=694 outsize=623 kw=SHADOWS_NATIVE ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=694 outsize=1096 kw=SHADOWS_SPLIT_SPHERES SHADOWS_NONATIVE ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=694 outsize=1140 kw=SHADOWS_SPLIT_SPHERES SHADOWS_NATIVE ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=694 outsize=842 kw=SHADOWS_SPLIT_SPHERES SHADOWS_NATIVE ok=1
